@@ -47,7 +47,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Skripti\DragNDropScript.cs" />
+     <Compile Include="Assets\Skripti\NomesanasVieta.cs" />
      <Compile Include="Assets\Skripti\Objekti.cs" />
+     <Compile Include="Assets\Skripti\ObjektuTransformacija.cs" />
      <None Include="Assets\Skripti\code.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

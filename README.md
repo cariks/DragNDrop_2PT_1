@@ -2,8 +2,8 @@
 Projekts "Drag N Drop", realize automasinu novietosanas speli. Spele paredzeta mazako klasu skoleniem.
 
 ## Daramo darbu sarakst
-- [ ] Iespeja parvietot automasinu objektus
-- [ ] Iespeja objektu novietot briva vieta uz kartes
+- [x] Iespeja parvietot automasinu objektus
+- [x] Iespeja objektu novietot briva vieta uz kartes
 - [ ] Iespeja objektu novietot uz nepareiza laukuma
 - [ ] Iespeja objektu novietot uz pareiza laukuma
 - [ ] Iespeja rotet objektu pulkstenraditaja un preteja vierziena
